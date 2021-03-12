@@ -24,6 +24,7 @@ This seems to be the order you should prioritize
 
 - Try these searches: 
 `site:hackerone.com inurl:/reports/ "ssrf" intext:"2020"`
+
 `site:hackerone.com inurl:/reports/ "server-side request forgery" intext:"2020"`
 
 
