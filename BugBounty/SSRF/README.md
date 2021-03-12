@@ -16,7 +16,11 @@ This seems to be the order you should prioritize
 5) Hidden API endpoints
 6) Anything that accepts a URL as input
 
-### Common SSRF Protection Bypasses
+### Mitigations
+
+- 
+
+### Mitigation Bypasses
 
 - 
 
